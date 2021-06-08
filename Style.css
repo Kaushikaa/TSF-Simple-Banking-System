@@ -1,0 +1,121 @@
+#ab{
+            
+    padding-top:90px;
+
+}
+.a{
+    border-bottom: 2px dashed;
+    border-top: 2px dashed;
+
+    
+}
+
+#bc{
+    color:black;
+    font-weight:initial;
+    font-size: x-large;
+
+
+}
+#d{
+    padding-top: 50px;
+    border: 10px solid black;
+}
+#jumbo{
+
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 30rem;
+    background-image:url("Home.jpg");
+    text-shadow: 2px 2px #000;
+    text-size-adjust: 30px;
+
+    }
+.bg-cover {
+    background-repeat: no-repeat;
+    color: white;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    z-index: -1;
+    }
+
+
+
+.overlay {
+    background-color: #000;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    }
+
+.lead span {
+    color:whitesmoke;
+    font-size: xx-large;
+    font-family: 'Leckerli One';
+
+}
+.carousel-inner > .item {
+    height: 400px;
+    
+        }
+
+.carousel-control-prev-icon {
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23f00' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23f00' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+.blog-header {
+line-height: 1;
+border-bottom: 1px solid #e5e5e5;
+}
+
+.blog-header-logo {
+font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+font-size: 2.25rem;
+}
+
+.blog-header-logo:hover {
+text-decoration: none;
+}
+.nav-scroller {
+position: relative;
+z-index: 2;
+height: 2.75rem;
+overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: nowrap;
+flex-wrap: nowrap;
+padding-bottom: 1rem;
+margin-top: -1px;
+overflow-x: auto;
+text-align: center;
+white-space: nowrap;
+-webkit-overflow-scrolling: touch;
+}
+
+.nav-scroller .nav-link {
+padding-top: .75rem;
+padding-bottom: .75rem;
+font-size: .875rem;
+
+
+}
+.nav-scroller .nav .p-2{
+color: black;
+}
+#new{
+font-family: 'Dancing Script';
+
+}
